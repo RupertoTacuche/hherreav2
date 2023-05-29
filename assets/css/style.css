@@ -83,8 +83,8 @@ h6 {
 
 #header h1 a,
 #header h1 a:hover {
-  /*color: #fff; */
-  color: black;
+  color: #fff; 
+  /* color: black; */
   line-height: 1;
   display: inline-block;
 }
